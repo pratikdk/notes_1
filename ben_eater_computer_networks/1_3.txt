@@ -1,0 +1,16 @@
+https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW
+
+topics
+
+voltage variation
+symbols
+fiber cable (refraction index diff btn cladding and fiber)
+hz -> /sec
+clock slip / bit slip
+radio waves (in-phase(sine)/out-phase(inverted sine) symbols)
+clock synchronization(btn sender and receiver)
+discrete clock signal, atomic clock
+clock phase (out of phase clock)
+data corruption
+electron conductivity difference(line dynamics)
+manchester coding (merge data and clock)
